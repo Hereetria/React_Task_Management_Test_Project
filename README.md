@@ -14,6 +14,7 @@ API requests are managed from a central location.
 
 ## Technologies Used
 - React
+- TypeScript
 - React Hooks
 - Json-server
 
